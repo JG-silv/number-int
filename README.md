@@ -1,4 +1,4 @@
-# Project 02 — Java Program: Sum of Two Integers
+## Java Program: Sum of Two Integers
 
 ## Description
 A basic **Java program** that stores **two integers** and displays the **sum** on the console.  
